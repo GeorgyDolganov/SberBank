@@ -23,7 +23,7 @@ header .logo-icon {
   height: 25px;
   width: 24px;
   margin: auto;
-  background-image: url(/assets/logo.svg);
+  background-image: url(../../assets/logo.svg);
 }
 header .logo label {
   margin: auto;
@@ -231,49 +231,49 @@ header .panel .profile-mobile .menu .link label {
   background-size: contain;
 }
 .icon_task {
-  background-image: url(/assets/icons/icon-task.svg);
+  background-image: url(../../assets/icons/icon-task.svg);
 }
 .icon_calendar {
-  background-image: url(/assets/icons/icon-calendar.svg);
+  background-image: url(../../assets/icons/icon-calendar.svg);
 }
 .icon_staff {
-  background-image: url(/assets/icons/icon-staff.svg);
+  background-image: url(../../assets/icons/icon-staff.svg);
 }
 .icon_replacement {
-  background-image: url(/assets/icons/icon-replacement.svg);
+  background-image: url(../../assets/icons/icon-replacement.svg);
 }
 .icon_link {
-  background-image: url(/assets/icons/icon-link.svg);
+  background-image: url(../../assets/icons/icon-link.svg);
 }
 .icon_education {
-  background-image: url(/assets/icons/icon-education.svg);
+  background-image: url(../../assets/icons/icon-education.svg);
 }
 .icon_game {
-  background-image: url(/assets/icons/icon-game.svg);
+  background-image: url(../../assets/icons/icon-game.svg);
 }
 .icon_feedback {
-  background-image: url(/assets/icons/icon-feedback.svg);
+  background-image: url(../../assets/icons/icon-feedback.svg);
 }
 .icon_checks {
-  background-image: url(/assets/icons/icon-checks.svg);
+  background-image: url(../../assets/icons/icon-checks.svg);
 }
 .icon_coins {
-  background-image: url(/assets/icons/icon-coins.svg);
+  background-image: url(../../assets/icons/icon-coins.svg);
 }
 .icon_notification {
-  background-image: url(/assets/icons/icon-notification.svg);
+  background-image: url(../../assets/icons/icon-notification.svg);
 }
 .icon_profile {
-  background-image: url(/assets/icons/icon-profile.svg);
+  background-image: url(../../assets/icons/icon-profile.svg);
 }
 .icon_logout {
-  background-image: url(/assets/icons/icon-logout.svg);
+  background-image: url(../../assets/icons/icon-logout.svg);
 }
 .icon_more {
-  background-image: url(/assets/icons/icon-more.svg);
+  background-image: url(../../assets/icons/icon-more.svg);
 }
 .icon_menu {
-  background-image: url(/assets/icons/icon-menu.svg);
+  background-image: url(../../assets/icons/icon-menu.svg);
 }
 
 /*# sourceMappingURL=main.css.map */
